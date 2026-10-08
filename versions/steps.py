@@ -15,3 +15,7 @@ def step_3():
 
 def step_4():
     return 4
+
+
+def step_5():
+    return 5
