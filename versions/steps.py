@@ -7,3 +7,7 @@ def step_1():
 
 def step_2():
     return 2
+
+
+def step_3():
+    return 3
