@@ -19,3 +19,7 @@ def step_4():
 
 def step_5():
     return 5
+
+
+def step_6():
+    return 6 * 2
