@@ -1,4 +1,4 @@
-Line 001 of a long file.
+Line 001 of a long file, edited.
 Line 002 of a long file.
 Line 003 of a long file.
 Line 004 of a long file.
@@ -97,11 +97,11 @@ Line 096 of a long file.
 Line 097 of a long file.
 Line 098 of a long file.
 Line 099 of a long file.
-Line 100 of a long file.
+Line 100 of a long file, edited.
 Line 101 of a long file.
 Line 102 of a long file.
 Line 103 of a long file.
-Line 104 of a long file.
+Line 104 of a long file, edited.
 Line 105 of a long file.
 Line 106 of a long file.
 Line 107 of a long file.
@@ -197,7 +197,6 @@ Line 196 of a long file.
 Line 197 of a long file.
 Line 198 of a long file.
 Line 199 of a long file.
-Line 200 of a long file.
 Line 201 of a long file.
 Line 202 of a long file.
 Line 203 of a long file.
@@ -248,6 +247,7 @@ Line 247 of a long file.
 Line 248 of a long file.
 Line 249 of a long file.
 Line 250 of a long file.
+A line inserted before line 250.
 Line 251 of a long file.
 Line 252 of a long file.
 Line 253 of a long file.
@@ -297,4 +297,4 @@ Line 296 of a long file.
 Line 297 of a long file.
 Line 298 of a long file.
 Line 299 of a long file.
-Line 300 of a long file.
+Line 300 of a long file, edited.
