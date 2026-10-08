@@ -1,0 +1,5 @@
+load("//:defs.bzl", "demo")
+
+demo(
+    name = "demo",
+)
