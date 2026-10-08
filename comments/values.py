@@ -7,9 +7,9 @@ VALUE_06 = 6
 VALUE_07 = 7
 VALUE_08 = 8
 VALUE_09 = 9
-VALUE_10 = 10
-VALUE_11 = 11
-VALUE_12 = 12
+VALUE_10 = 10 * 10  # scaled
+VALUE_11 = 11 * 10  # scaled
+VALUE_12 = 12 * 10  # scaled
 VALUE_13 = 13
 VALUE_14 = 14
 VALUE_15 = 15
@@ -23,6 +23,11 @@ VALUE_22 = 22
 VALUE_23 = 23
 VALUE_24 = 24
 VALUE_25 = 25
+def total():
+    """Sum the first few values."""
+    values = [globals()[f"VALUE_{i:02d}"] for i in range(1, 41)]
+    return sum(values)
+
 VALUE_26 = 26
 VALUE_27 = 27
 VALUE_28 = 28

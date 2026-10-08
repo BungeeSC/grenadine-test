@@ -1,3 +1,3 @@
 # Notes
 
-Nothing yet.
+Values 10 to 12 are scaled.
