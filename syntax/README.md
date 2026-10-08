@@ -1,3 +1,3 @@
 # Demo
 
-Some *emphasis* and `code`.
+Some **strong emphasis** and `code`.

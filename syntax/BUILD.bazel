@@ -2,4 +2,5 @@ load("//:defs.bzl", "demo")
 
 demo(
     name = "demo",
+    visibility = ["//visibility:public"],
 )

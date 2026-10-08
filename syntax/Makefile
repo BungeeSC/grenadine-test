@@ -1,2 +1,2 @@
 all:
-	echo building
+	echo building everything
