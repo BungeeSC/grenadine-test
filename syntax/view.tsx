@@ -1,1 +1,1 @@
-export const View = () => <div className="view">hello</div>;
+export const View = () => <div className="view"><b>hello</b></div>;
