@@ -15,7 +15,7 @@ def helper_4():
 
 
 def helper_5():
-    return 5
+    return 5 * 5  # edited while moving
 
 
 def helper_6():
